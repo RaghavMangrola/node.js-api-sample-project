@@ -18,4 +18,4 @@
 * body-parser
   * Lets us pull POST content from our HTTP request so that we can do things like create a user
 * bcrypt-nodejs
-  * Allows us to hash our passwords since it is never safe to store passwords plaintext in our databses
+  * Allows us to hash our passwords since it is never safe to store passwords plaintext in our databases
